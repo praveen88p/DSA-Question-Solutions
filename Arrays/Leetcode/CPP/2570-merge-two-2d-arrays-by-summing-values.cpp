@@ -34,3 +34,20 @@ class Solution {
         }
     };
     
+
+
+
+
+
+
+
+    \cventry
+    {Gesture Controlled Virtual Mouse \textnormal{ | Python, OpenCV, MediaPipe, CNN, Pybind11, Machine Learning}}
+    {\href{https://github.com/parag477/Sahayak}{Source Code}}
+    {
+      \begin{cvitems}
+        \item {Developed a contactless virtual mouse system enabling users to control a computer using hand gestures and voice commands.}
+        \item {Integrate MeadiaPipe's Hand Detection model with CNN-based tracking for precise input processing.}
+          \item {Implement state-of-the-art Machine Learning and Computer Vision algorithms for real-time gesture recognition.}
+      \end{cvitems}
+    }
