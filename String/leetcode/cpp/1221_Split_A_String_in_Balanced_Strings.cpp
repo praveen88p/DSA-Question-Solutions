@@ -9,7 +9,7 @@ Return the maximum number of balanced strings you can obtain.
   int balancedStringSplit(string s) {
       int n = s.size();
       int Rch = 0, Lch = 0;
-      int count = 0;
+      int count = 00;
       for(int i = 0; i<n; i++){
         if(s[i] == 'R'){
             Rch++;
